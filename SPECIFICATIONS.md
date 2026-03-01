@@ -68,6 +68,8 @@ L'équipe B3 se concentre sur la modélisation 3D d'un outil, et apporte sa main
 
 ### Planification et suivi
 
+Afin de faciliter la communication et la coordination, vous sera imposé de désigner un "Responsable" d'équipe. Il n'est pas ici histoire de lui attribuer toute la responsabilité du projet, mais plutot de pouvoir servir de point de contact pour les autres équipes. Ils seront également ammenés à faire des points réguliers avec leur PDG respectif, pour faire le point sur l'avancée du projet, les difficultés rencontrées, et les besoins d'aide ou de ressources.
+
 ---
 
 ## Conception et développement
@@ -75,6 +77,20 @@ L'équipe B3 se concentre sur la modélisation 3D d'un outil, et apporte sa main
 ---
 
 ## Rendu final
+
+Votre rendu final doit être un GitHub Organisation.
+Celui-ci doit contenir vos codes sources. GitHub Organisation permet d'aligner plusieurs repositories sous un même bannier, ce qui est idéal pour un projet collaboratif entre plusieurs équipes.
+En rendu commun imposé, vous retrouverez :
+
+- Ce Repository Fork dans votre GitHub Organisation, qui servira de point d'entrée propre au Challenge 48h. Il contiendra un README.md complété avec les informations de votre entreprise, vos équipes, et votre projet. Vous pourrez également y intégrer une carte des ressources utilisées, des liens vers les autres repositories de votre organisation, et tout autre élément que vous jugerez pertinent pour présenter votre projet.
+
+> A défaut de présenter votre solution finale à l'oral, considérez ce support comme votre vitrine pour présenter votre projet. Il doit être clair, structuré, et refléter le travail collaboratif que vous avez réalisé.
+
+- Un repository "DOCUMENTATION" contenant une documentation commune / mise en commun de vos projets. Insérez-y des documentations techniques et utilisateurs. Vous êtes autorisés à faire une documentation sur d'autres supports (Ex: Notion, GitBook, GitHub Wiki, etc.) mais assurez-vous d'intégrer un lien vers celle-ci dans votre README.md.
+
+- Un repository "COMPTES-RENDUS" contenant vos comptes rendus personnels avec le format suivant à respecter: `prenom-nom-compte-rendu.md`. Vous y présenterez votre contribution personnelle au projet, les difficultés rencontrées, et les apprentissages réalisés. C'est un élément important pour évaluer votre implication et votre capacité à travailler en équipe.
+
+Autant d'autres repositories que vous le souhaitez peuvent être créés pour héberger vos codes sources, vos ressources, ou tout autre élément de votre projet. Assurez-vous simplement de les organiser de manière claire et de faire le lien entre eux dans votre README.md.
 
 ---
 
