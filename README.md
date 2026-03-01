@@ -11,7 +11,7 @@ Cette template de README est un guide pour vous aider afin de structurer votre r
 
 ## Contexte
 
-Et si on réinventait l’expérience babyfoot à Ynov ? L’objectif de ce hackathon est de moderniser et digitaliser l’usage des babyfoots présents dans le Souk pour créer un service next-gen, pensé pour près de 1000 étudiants !
+Et si on réinventait l’expérience babyfoot à Ynov ? L’objectif de ce challenge est de moderniser et digitaliser l’usage des babyfoots présents dans le Souk pour créer un service next-gen, pensé pour près de 1000 étudiants !
 
 Que ce soit via des gadgets connectés, un système de réservation intelligent, des statistiques en temps réel ou des fonctionnalités robustes pour une utilisation massive, nous cherchons des solutions innovantes qui allient créativité et technologie.
 
@@ -19,7 +19,7 @@ Toutes les disciplines sont invitées à contribuer : Du Dev, de l'Infra, de la 
 
 Votre mission : transformer le babyfoot classique en expérience high-tech pour Ynov !
 
-Bienvenue dans le Hackathon Ynov Toulouse 2026 !
+Bienvenue dans le Challenge 48h Ynov Toulouse 2026 !
 
 Vous représentez une sous-équipe de 6 à 8 personnes, votre objectif, collaborer avec les autres sous-équipes dans votre "Entreprise" pour créer un seul et projet commun, qui sera votre rendu final. Vous devrez faire preuve de créativité, d'innovation, et de travail en équipe pour relever ce défi.
 

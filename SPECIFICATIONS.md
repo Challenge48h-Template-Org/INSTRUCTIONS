@@ -1,6 +1,6 @@
-# Hackathon - Ynov Toulouse 2026 - Babyfoot du futur
+# Challenge 48h - Ynov Toulouse 2026 - Babyfoot du futur
 
-Et si on réinventait l’expérience babyfoot à Ynov ? L’objectif de ce hackathon est de moderniser et digitaliser l’usage des babyfoots présents dans le Souk pour créer un service next-gen, pensé pour près de 1000 étudiants !
+Et si on réinventait l’expérience babyfoot à Ynov ? L’objectif de ce Challenge 48h est de moderniser et digitaliser l’usage des babyfoots présents dans le Souk pour créer un service next-gen, pensé pour près de 1000 étudiants !
 
 Que ce soit via des gadgets connectés, un système de réservation intelligent, des statistiques en temps réel ou des fonctionnalités robustes pour une utilisation massive, nous cherchons des solutions innovantes qui allient créativité et technologie.
 
@@ -8,15 +8,15 @@ Toutes les disciplines sont invitées à contribuer : Du Dev, de l'Infra, de la 
 
 Votre mission : transformer le babyfoot classique en expérience high-tech pour Ynov !
 
-Bienvenue dans le Hackathon Ynov Toulouse 2026 !
+Bienvenue dans le Challenge 48h Ynov Toulouse 2026 !
 
 Vous représentez une sous-équipe de 6 à 8 personnes, votre objectif, collaborer avec les autres sous-équipes dans votre "Entreprise" pour créer un seul et projet commun, qui sera votre rendu final. Vous devrez faire preuve de créativité, d'innovation, et de travail en équipe pour relever ce défi.
 
 ## Préambule
 
-Ce hackathon n'a pas pour but de produire un projet **parfait** ou **complet**. Il s'agit d'un exercice de créativité, d'innovation, et de travail en équipe. L'objectif est de vous challenger, de vous faire sortir de votre zone de confort, et de vous permettre d'apprendre en expérimentant.
+Le challenge 48h n'a pas pour but de produire un projet **parfait** ou **complet**. Il s'agit d'un exercice de créativité, d'innovation, et de travail en équipe. L'objectif est de vous challenger, de vous faire sortir de votre zone de confort, et de vous permettre d'apprendre en expérimentant.
 
-Considérez ce hackathon comme une réussite si vous parvenez à mixer vos compétences, et que vous avez eu l'occasion de travailler ensemble, d'apprendre les uns des autres, et de créer quelque chose d'unique. Peu importe le résultat final, l'important est le chemin parcouru et les compétences développées.
+Considérez ce challenge comme une réussite si vous parvenez à mixer vos compétences, et que vous avez eu l'occasion de travailler ensemble, d'apprendre les uns des autres, et de créer quelque chose d'unique. Peu importe le résultat final, l'important est le chemin parcouru et les compétences développées.
 
 > Un projet hautement collaboratif sera toujours bien mieux considéré qu'un projet techniquement parfait mais réalisé en silo.
 
@@ -45,7 +45,7 @@ Ce challenge 48h met l'emphase sur une approche ultra-collaborative. Vous êtes 
 ### Organisation de l'équipe
 
 Comme mentionné précédemment, vous êtes répartis en plusieurs sous-équipes. Votre équipe participe à un effort collectif commun avec une seconde voir une troisième équipe.
-Vous représentez tous ensemble une "Entreprise", une solution finale.
+Vous représentez tous ensemble une "Entreprise", un projet final.
 
 **Vous êtes conviés à travailler entre vos sous-équipes**. Ne restez pas cloisonnés dans votre équipe, échangez, collaborez, partagez vos idées, vos avancées, et vos difficultés.
 Les sous-équipes permettent simplement d'avoir un premier cadre d'organisation. Si une sous-équipe n'avance pas à votre rythme, vous êtes toujours en capacité d'avancer en tant que sous-équipes, et de collaborer avec les autres sous-équipes pour faire avancer le projet global.
@@ -102,7 +102,7 @@ En rendu commun imposé, vous retrouverez :
 
 - Ce Repository Fork dans votre GitHub Organisation, qui servira de point d'entrée propre au Challenge 48h. Il contiendra un README.md complété avec les informations de votre entreprise, vos équipes, et votre projet. Vous pourrez également y intégrer une carte des ressources utilisées, des liens vers les autres repositories de votre organisation, et tout autre élément que vous jugerez pertinent pour présenter votre projet.
 
-> A défaut de présenter votre solution finale à l'oral, considérez ce support comme votre vitrine pour présenter votre projet. Il doit être clair, structuré, et refléter le travail collaboratif que vous avez réalisé.
+> A défaut de présenter votre projet à l'oral, considérez ce support comme votre vitrine pour présenter votre projet. Il doit être clair, structuré, et refléter le travail collaboratif que vous avez réalisé.
 
 - Un repository "DOCUMENTATION" contenant une documentation commune / mise en commun de vos projets. Insérez-y des documentations techniques et utilisateurs. Vous êtes autorisés à faire une documentation sur d'autres supports (Ex: Notion, GitBook, GitHub Wiki, etc.) mais assurez-vous d'intégrer un lien vers celle-ci dans votre README.md.
 
@@ -136,7 +136,7 @@ La note de sous-groupe correspond à **25%** de la note finale. Elle est basée 
 
 ### Note de projet global (Entreprise)
 
-Une note globale sera attribuée à l'ensemble du projet, et reflétera la qualité, l'innovation, et la pertinence de votre solution finale. Cette note prendra en compte l'ensemble des éléments présentés dans votre rendu final, ainsi que le respect des consignes et formats imposés.
+Une note globale sera attribuée à l'ensemble du projet, et reflétera la qualité, l'innovation, et la pertinence de votre projet final. Cette note prendra en compte l'ensemble des éléments présentés dans votre rendu final, ainsi que le respect des consignes et formats imposés.
 Elle correspond à **25%** de la note finale, et permettra de récompenser les projets les plus innovants, les mieux réalisés, et les mieux présentés.
 
 - Totalité des rendus finaux rendus (README.md, Documentation, Codes sources, etc.)
