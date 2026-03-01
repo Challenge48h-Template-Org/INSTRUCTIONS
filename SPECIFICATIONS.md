@@ -74,6 +74,24 @@ Afin de faciliter la communication et la coordination, vous sera imposé de dés
 
 ## Conception et développement
 
+Votre objectif est de créer un projet innovant, technologique pour permettre de moderniser l'expérience babyfoot à Ynov. Vous êtes libres de choisir les technologies, les outils, et les approches que vous souhaitez pour réaliser votre projet. L'important est de montrer votre capacité à innover, à travailler en équipe, et à créer quelque chose d'unique.
+
+Voici quelques idées de projets que vous pourriez réaliser si vous manquez d'inspiration, mais n'hésitez pas à faire preuve de créativité et à proposer vos propres idées :
+
+- Un système de réservation intelligent pour les babyfoots, pour réserver et gérer les créneaux de jeu.
+- Un leaderboard connecté pour suivre les scores et les statistiques de jeu en temps réel.
+- Un compteur de points connecté pour afficher les scores sur un écran, ou sur une application mobile.
+- Un wiki collaboratif pour partager des astuces, des stratégies, et des conseils de jeu entre les étudiants avec un chatbot IA pour répondre aux questions.
+- Un système de tournois automatisé pour organiser des compétitions de babyfoot entre les étudiants, avec une gestion des inscriptions, des matchs, et des résultats.
+- Un système d'entretien prédictif pour les babyfoots, qui utilise des capteurs pour détecter les problèmes potentiels et alerter les responsables de l'entretien.
+
+> [!WARNING]  
+> Vous ne serez notés que partiellement sur la réalisation technique de votre projet. **Je n'attends pas de vous un PROJET TECHNIQUEMENT PARFAIT**, il est clairement connu que vous n'avez que 48h, et que la partie de gestion de projet entre plusieurs équipes est un défi en soi.
+
+(Et je sais pertinament que vous allez utiliser l'IA, je n'aurais aucun interêt de noter un code entièrement généré...)
+
+Considérez que la partie technique vous sert de tronc commun pour vous appuyer pour travailler en collaboration et rendre la solution la plus innovante possible.
+
 ---
 
 ## Rendu final
@@ -96,6 +114,55 @@ Autant d'autres repositories que vous le souhaitez peuvent être créés pour h�
 
 ## Critères d'évaluation
 
----
+### Note d'investissement personnel
+
+La note d'investissement personnel correspond à **30%** de la note finale. Elle est basée sur:
+
+- Votre contribution personnelle au projet (Commits, participation générale, initiative, etc.)
+- Compte rendu individuel présentant votre contribution personnelle au projet, les difficultés rencontrées, et les apprentissages réalisés. (Tout rendu généré par l'IA ne sera pas considéré, et pourra même être noté comme zéro en cas d'abus manifeste. Je ne vous demande pas un roman, simplement un retour personnel)
+
+### Note de sous-groupe
+
+La note de sous-groupe correspond à **25%** de la note finale. Elle est basée sur:
+
+- Sa capacité à collaborer, à innover, et à créer quelque chose d'unique.
+- La pertinence de sa/ses solution(s) par rapport au défi posé, et au contexte d'Ynov.
+- Qualité de la réalisation technique (ajustée en fonction des niveaux dans chaque équipe)
+- Choix techniques pertinents et justifiés pour la réalisation du projet.
+- Qualité de la documentation technique et utilisateur.
+
+> [!TIP]
+> La note de sous-groupe sera la même pour tous les membres de la sous-groupe, et reflétera l'effort collectif réalisé, cette note permettra de pondérer en cas de disparité entre les efforts des autres sous-groupes. (35% de la note finale)
+
+### Note de projet global (Entreprise)
+
+Une note globale sera attribuée à l'ensemble du projet, et reflétera la qualité, l'innovation, et la pertinence de votre solution finale. Cette note prendra en compte l'ensemble des éléments présentés dans votre rendu final, ainsi que le respect des consignes et formats imposés.
+Elle correspond à **25%** de la note finale, et permettra de récompenser les projets les plus innovants, les mieux réalisés, et les mieux présentés.
+
+- Totalité des rendus finaux rendus (README.md, Documentation, Codes sources, etc.)
+- Tous les rendus sont remplis correctement en respectant les consignes imposées.
+- Mixité entre les sous-équipes, et collaboration entre les équipes pour créer une solution globale cohérente et innovante.
+
+### Note individuelle
+
+Une note individuelle correspondant à **20%** de la note finale, proviendra de vos rendus personnels uniquement. Cette note permettra de récompenser, ou compenser des travaux d'équipes avec des lacunes / disparités d'efforts entre les sous-groupes.
+
+Cette note permet concrètement d'assurer votre note finale ne soit pas pénalisée par un manque d'effort de votre sous-groupe, ou au contraire de récompenser un effort individuel exceptionnel dans un sous-groupe qui n'aurait pas été à la hauteur.
+
+Là où la première note individuelle reflète votre contribution personnelle dans un effort de groupe.
+
+### Exemple de notation
+
+Un étudiant, se retrouvant dans un sous-groupe ne fournissant que peu d'efforts, mais qui lui même aura fourni un travail personnel de qualité, pourra compenser la note de son sous-groupe avec sa note individuelle bonus, pour éviter que sa note finale soit pénalisée par le manque d'effort de son sous-groupe.
+
+| Note d'investissement personnel | Note de sous-groupe | Note de projet global | Note individuelle bonus | Note finale | Note rapportée à 20 |
+| ------------------------------- | ------------------- | --------------------- | ----------------------- | ----------- | ------------------- |
+| 30/30                           | 5/25                | 14/25                 | 20/20                   | 69          | 13.8/20             |
 
 ## Ressources et support
+
+### GitHub Organisation
+
+[GitHub Organisation de Template](https://github.com/Challenge48h-Template-Org)
+
+> Et voici un guide pour vous aider à créer votre propre GitHub Organisation, et à y intégrer les éléments de votre projet : [GUIDE-GITHUB-ORGANISATION.md](https://github.com/Challenge48h-Template-Org/DOCUMENTATION/blob/main/guide-creation-organisation-github.md)
