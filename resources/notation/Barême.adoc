@@ -1,0 +1,192 @@
+= Grille de notation - Challenge 48h Ynov Toulouse 2026
+
+== Grille de notation complète - Challenge 48h (/100)
+
+=== 1. Note d'investissement personnel (/30)
+
+==== 1.1 Contribution personnelle au projet (/20)
+
+===== Commits et activité Git (/8)
+* 8 pts : Commits réguliers, pertinents et bien documentés tout au long du challenge
+* 6 pts : Commits réguliers avec une bonne activité
+* 4 pts : Quelques commits significatifs
+* 2 pts : Commits sporadiques ou peu significatifs
+* 0 pt : Absence ou quasi-absence de commits
+
+===== Participation générale (/7)
+* 7 pts : Participation active et constante, présence aux réunions, communication régulière
+* 5 pts : Bonne participation, implication visible
+* 3 pts : Participation moyenne, quelques absences ou manques d'implication
+* 1 pt : Participation faible, peu impliqué
+* 0 pt : Aucune participation visible
+
+===== Initiative et proactivité (/5)
+* 5 pts : Prend des initiatives, propose des solutions, aide les autres
+* 3 pts : Quelques initiatives visibles
+* 1 pt : Suit les directives sans initiative
+* 0 pt : Aucune initiative
+
+==== 1.2 Compte rendu individuel (/10)
+
+===== Qualité du contenu (/6)
+* 6 pts : Compte rendu détaillé, personnel, réflexif et authentique
+* 4 pts : Compte rendu correct avec réflexion personnelle
+* 2 pts : Compte rendu superficiel ou générique
+* 0 pt : Absent, généré par IA ou copié
+
+===== Présentation des difficultés rencontrées (/2)
+* 2 pts : Difficultés clairement identifiées et analysées
+* 1 pt : Difficultés mentionnées sans analyse
+* 0 pt : Aucune mention ou non pertinent
+
+===== Apprentissages réalisés (/2)
+* 2 pts : Apprentissages concrets et réflexion sur les compétences développées
+* 1 pt : Quelques apprentissages mentionnés
+* 0 pt : Aucun apprentissage identifié
+
+=== 2. Note de sous-groupe (/25)
+
+==== 2.1 Collaboration et innovation (/7)
+
+===== Capacité à collaborer (/4)
+* 4 pts : Collaboration exemplaire au sein du sous-groupe
+* 3 pts : Bonne collaboration, travail d'équipe visible
+* 2 pts : Collaboration basique
+* 1 pt : Collaboration limitée, travail en silo
+* 0 pt : Aucune collaboration
+
+===== Innovation et créativité (/3)
+* 3 pts : Solution innovante et originale
+* 2 pts : Approche créative avec quelques éléments innovants
+* 1 pt : Solution classique peu innovante
+* 0 pt : Aucune innovation
+
+==== 2.2 Pertinence de la solution (/6)
+
+===== Adéquation au défi babyfoot (/3)
+* 3 pts : Solution parfaitement adaptée au contexte Ynov et au défi
+* 2 pts : Solution pertinente avec quelques manques
+* 1 pt : Solution peu adaptée
+* 0 pt : Hors sujet
+
+===== Réponse aux besoins des utilisateurs (/3)
+* 3 pts : Solution pensée pour 1000 étudiants, utilisable et pratique
+* 2 pts : Solution utilisable mais avec des limitations
+* 1 pt : Solution peu pratique
+* 0 pt : Solution non utilisable
+
+==== 2.3 Qualité de la réalisation technique (/7)
+
+===== Fonctionnalités implémentées (/4)
+* 4 pts : Fonctionnalités principales opérationnelles et testées
+* 3 pts : Majorité des fonctionnalités opérationnelles
+* 2 pts : Quelques fonctionnalités de base fonctionnelles
+* 1 pt : Prototype minimal
+* 0 pt : Rien de fonctionnel
+
+===== Qualité du code (/3)
+* 3 pts : Code structuré, lisible, avec bonnes pratiques (ajusté au niveau)
+* 2 pts : Code correct et compréhensible
+* 1 pt : Code fonctionnel mais désorganisé
+* 0 pt : Code inexploitable
+
+==== 2.4 Choix techniques (/3)
+* 3 pts : Choix techniques pertinents, justifiés et adaptés au contexte 48h
+* 2 pts : Choix techniques corrects
+* 1 pt : Choix techniques discutables
+* 0 pt : Choix inadaptés ou non justifiés
+
+==== 2.5 Documentation (/2)
+* 2 pts : Documentation technique et utilisateur complète et claire
+* 1 pt : Documentation basique présente
+* 0 pt : Documentation absente ou insuffisante
+
+=== 3. Note de projet global - Entreprise (/25)
+
+==== 3.1 Rendus finaux (/10)
+
+===== README.md de l'organisation (/3)
+* 3 pts : README complet, clair, bien structuré et représentatif du projet
+* 2 pts : README correct avec informations principales
+* 1 pt : README minimal ou incomplet
+* 0 pt : Absent ou non conforme
+
+===== Repository DOCUMENTATION (/4)
+* 4 pts : Documentation commune complète et bien organisée
+* 3 pts : Documentation présente et utilisable
+* 2 pts : Documentation partielle
+* 1 pt : Documentation minimale
+* 0 pt : Absente
+
+===== Repository COMPTES-RENDUS (/3)
+* 3 pts : Tous les comptes rendus présents avec le bon format
+* 2 pts : Majorité des comptes rendus présents
+* 1 pt : Quelques comptes rendus manquants ou mauvais format
+* 0 pt : Repository absent ou vide
+
+==== 3.2 Respect des consignes (/5)
+
+===== Organisation GitHub (/2)
+* 2 pts : Organisation GitHub correctement structurée avec tous les repositories
+* 1 pt : Organisation présente mais incomplète
+* 0 pt : Mal organisée ou absente
+
+===== Formats et conventions (/3)
+* 3 pts : Toutes les consignes respectées (nommage, structure, formats)
+* 2 pts : Majorité des consignes respectées
+* 1 pt : Quelques consignes respectées
+* 0 pt : Consignes non respectées
+
+==== 3.3 Collaboration inter-équipes (/10)
+
+===== Mixité entre sous-équipes (/5)
+* 5 pts : Collaboration active et visible entre toutes les sous-équipes
+* 4 pts : Bonne collaboration entre les sous-équipes
+* 3 pts : Collaboration présente mais limitée
+* 2 pts : Peu de collaboration inter-équipes
+* 1 pt : Travail en silo avec tentatives de collaboration
+* 0 pt : Aucune collaboration
+
+===== Cohérence de la solution globale (/5)
+* 5 pts : Solution d'entreprise cohérente, intégrée et innovante
+* 4 pts : Solution cohérente avec bonne intégration
+* 3 pts : Solution partiellement cohérente
+* 2 pts : Solutions parallèles peu intégrées
+* 1 pt : Solutions déconnectées
+* 0 pt : Aucune cohérence
+
+=== 4. Note individuelle bonus (/20)
+
+Cette note permet de compenser ou récompenser l'effort individuel par rapport au groupe.
+
+==== 4.1 Excellence individuelle (/20)
+
+===== Dépassement des attentes (/10)
+* 10 pts : Contribution exceptionnelle, leadership, aide significative aux autres
+* 8 pts : Forte contribution individuelle au-delà des attentes
+* 6 pts : Bonne contribution individuelle
+* 4 pts : Contribution conforme aux attentes
+* 2 pts : Contribution minimale
+* 0 pt : Contribution insuffisante
+
+===== Impact sur le projet (/10)
+* 10 pts : Impact majeur et visible sur le succès du projet
+* 8 pts : Impact significatif sur plusieurs aspects du projet
+* 6 pts : Impact positif sur le projet
+* 4 pts : Contribution standard sans impact particulier
+* 2 pts : Impact limité
+* 0 pt : Aucun impact visible
+
+== Récapitulatif
+
+|===
+| Catégorie | Points
+
+| Note d'investissement personnel | /30
+| Note de sous-groupe | /25
+| Note de projet global (Entreprise) | /25
+| Note individuelle bonus | /20
+| *TOTAL* | */100*
+|===
+
+*Conversion sur 20 :* Note finale × 0,2 = Note sur 20
