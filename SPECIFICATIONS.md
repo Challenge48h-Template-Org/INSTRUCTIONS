@@ -85,6 +85,8 @@ Voici quelques idées de projets que vous pourriez réaliser si vous manquez d'i
 - Un système de tournois automatisé pour organiser des compétitions de babyfoot entre les étudiants, avec une gestion des inscriptions, des matchs, et des résultats.
 - Un système d'entretien prédictif pour les babyfoots, qui utilise des capteurs pour détecter les problèmes potentiels et alerter les responsables de l'entretien.
 
+Consultez [SUGGESTIONS.md](./SUGGESTIONS.md) pour plus de détails sur des guidelines pour bien démarrer, et avoir des idées de réalisation classées par domaine technique.
+
 > [!WARNING]  
 > Vous ne serez notés que partiellement sur la réalisation technique de votre projet. **Je n'attends pas de vous un PROJET TECHNIQUEMENT PARFAIT**, il est clairement connu que vous n'avez que 48h, et que la partie de gestion de projet entre plusieurs équipes est un défi en soi.
 
