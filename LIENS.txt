@@ -1,0 +1,4 @@
+Lien GitHub de template à cloner : https://github.com/Challenge48h-Template-Org
+Lien du Serveur Discord : https://discord.gg/wZBC8xwsN4
+Lien vers moodle : https://moodle.learn.ynov.com/course/view.php?id=73630
+Lien vers YLab : https://ylab.algohive.dev/
