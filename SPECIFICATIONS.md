@@ -163,6 +163,13 @@ Un étudiant, se retrouvant dans un sous-groupe ne fournissant que peu d'efforts
 
 ## Ressources et support
 
+Sont à votre disposition plusieurs supports pour vous aider à mener à bien votre projet:
+
+- Dossier ressources/iadate/ : Contient des ressources pour une possible analyse de données, ou pour intégrer de l'IA dans votre projet.
+- Fichier SUGGESTIONS.md : Contient des suggestions d'idées de projets, classées par domaine technique.
+
+Au risque de me répéter, AUCUNE CAHIER DES CHARGES TECHNIQUE N'EST IMPOSÉ, vous êtes libres de faire ce que vous voulez, du moment que cela correspond à l'objectif global de moderniser l'expérience babyfoot à Ynov. Les suggestions d'idées de projets sont là pour vous inspirer, mais n'hésitez pas à faire preuve de créativité et à proposer vos propres idées.
+
 ### GitHub Organisation
 
 [GitHub Organisation de Template](https://github.com/Challenge48h-Template-Org)
